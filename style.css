@@ -1,0 +1,40 @@
+.full{
+  width: 90%;
+  margin: auto;
+}
+
+
+img#logo{
+  width: 75px;
+  vertical-align: middle;
+}
+div#buttons{
+  float: right;
+}
+div#xpress_head{
+   vertical-align: middle;
+   margin-top: 20px;
+}
+div#food_pic{
+  
+}
+a#login,a#signup{
+  color: #000000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 10px;
+}
+a:hover{
+  color: #cccccc;
+  font-weight: bold;
+}
+
+
+#features{
+  display: inline-flex;
+  background: black;
+  margin-top: 30px;
+  padding-top: 45px;
+  padding-bottom: 25px;
+}
